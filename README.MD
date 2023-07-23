@@ -6,6 +6,6 @@ This is the lab report for the students designed by **Sailesh Pandey** sir, a le
 
 #### Only for the students of Everest Engineering College
 
-#### Created by @bhatbhupendra 
-#### Edited by @JiwanChaudhary
-##### For more information contact @bhatbhupendra and @JiwanChaudhary
+#### Created by [bhatbhupendra](https://github.com/bhatbhupendra/)
+#### Edited by [JiwanChaudhary](https://github.com/JiwanChaudhary/)
+##### Not for commercial purpose
